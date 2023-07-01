@@ -1,0 +1,26 @@
+First 10 are directly derived from Quick Cash (a)-(j) probably not specific enough.
+
+As a User I want to know my local area so I can see other users in my area
+
+As a user I want to see paid tasks so I can make money
+
+As an employer I want to pay people to do jobs so I dont have to do them
+
+As an employee I want to choose from different jobs so I can make money
+
+As an employer I want to submit a job with necessary details (e.g., date, expected dura-
+tion, place, urgency, salary) so employee’s dont need to ask me questions.
+
+As an employee I want to search for jobs with various parameters and preferences because I like to do specific jobs
+
+As a user I want to the app to save my preferences for job, employee, and employer in the app so I dont have to set them everytime I use the app. 
+
+As a user I want to be paid/pay for jobs online because it is quick and easy
+
+As an employee I want to be alerted when my jobs are available in local area
+
+As an employee I want to be notified when a preferred job is available in my local area so I can work
+
+As an employer I want to be recommended potential employees for my job(s), so I can hire good employees. 
+
+As a user I want to see job history, income and reputation of each user with the app

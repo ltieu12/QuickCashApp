@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">quickCashReg</string>
+    <string name="EMPTY_STRING"></string>
+    <string name="SUCCESS">User created successfully</string>
+    <string name="INVALID_CONFIRM_PASSWORD">Password and Confirm Password are not match</string>
+    <string name="USERNAME_EXISTED">User Name is already registered</string>
+    <string name="INVALID_PASSWORD">Password has to be at least 6 characters</string>
+    <string name="INVALID_EMAIL">Invalid email address</string>
+    <string name="INVALID_ROLE">Invalid Role</string>
+    <string name="FIREBASE_DB_URL">https://quickcash-bd58f-default-rtdb.firebaseio.com</string>
+    <string name="miniSalary" />
+</resources>
